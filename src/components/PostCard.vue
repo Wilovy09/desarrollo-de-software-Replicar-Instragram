@@ -19,7 +19,7 @@
                     alt="Imagen de perfil" 
                     class="w-12 h-12 rounded-full"/>
                 <div class="ml-2">
-                    <h3 class="font-bold text-lg">{{ post?.userEmail }}</h3>
+                    <h3 class="font-bold text-lg">{{ post?.userEmail  }}</h3>
                     <p class="text-gray-500">{{ post?.createdAt.toDate().toLocaleDateString() }}</p>
                 </div>
             </section>
