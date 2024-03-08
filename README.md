@@ -1,5 +1,7 @@
 # Clon de instagram
 
+**USE PNPM**
+
 <!--
 [Consola Firebase](https://console.firebase.google.com/project/cloninstagram-a4bef/overview?hl=es)
 
